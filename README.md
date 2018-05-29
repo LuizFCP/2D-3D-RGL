@@ -1,3 +1,5 @@
-# Gráficos em 2D e 3D 
+# Gráficos em 2D e 3D OpenGL
 
-## OpenGL - RGL
+## Utilizando o pacote RGL
+
+Graphics Library
